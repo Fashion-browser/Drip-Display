@@ -84,7 +84,6 @@ Feed Screen
 Search Screen
 * None
 ## Wireframes
-[Add picture of your hand sketched wireframes in this section]
 <img src="https://github.com/Fashion-browser/fashionapp/blob/main/WireFrames.pdf" width=600>
 
 
