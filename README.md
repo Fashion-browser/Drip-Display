@@ -69,6 +69,7 @@ Search
 * Profile
 
 **Flow Navigation** (Screen to Screen)
+
 Login Screen
 * Home
 Registration Screen
@@ -84,7 +85,11 @@ Feed Screen
 Search Screen
 * None
 ## Wireframes
-<img src="https://github.com/Fashion-browser/fashionapp/blob/main/WireFrames.pdf" width=600>
+[Add picture of your hand sketched wireframes in this section]
+
+<img src="![](https://i.imgur.com/uO3xsZ8.jpg)
+" width=600>
+
 
 
 ### [BONUS] Digital Wireframes & Mockups
