@@ -87,7 +87,7 @@ Search Screen
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
 
-<img src="https://github.com/Fashion-browser/Drip-Display/blob/main/WireFrames.pdf" width=600>
+![](https://i.imgur.com/BRr680o.jpg)
 
 
 
