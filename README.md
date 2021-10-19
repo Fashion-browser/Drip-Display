@@ -69,7 +69,6 @@ Search
 * Profile
 
 **Flow Navigation** (Screen to Screen)
-
 Login Screen
 * Home
 Registration Screen
